@@ -1,0 +1,10 @@
+fix: donot calculate discount
+
+
+there is a discount of 10% if user buy be more than 100 dollars it was not actived
+fix that by write a true coniditin
+
+
+If you use an issue tracker, put references to them at the bottom, like this:
+Resolves: #123
+See also: #456, #789
